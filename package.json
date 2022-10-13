@@ -1,0 +1,13 @@
+{
+  "name": "express-docker",
+  "version": "0.1.0",
+  "description": "Dockerized Express",
+  "author": "Wyatt Munson",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
